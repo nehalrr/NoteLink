@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NoteLink</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type note here...</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add Url</string>
+    <string name="add_urll">Add Url</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="add">Add</string>
+    <string name="cancel_dialog">CANCEL</string>
+    <string name="Add">ADD</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_sure_you_to_delete_this_note">Are you sure you to delete this note</string>
+    <string name="cancel">Cancel</string>
+</resources>
